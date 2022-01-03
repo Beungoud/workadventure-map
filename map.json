@@ -45,17 +45,27 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"MeetingRoom3"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"framatalk.org"
+                }, 
+                {
+                 "name":"xopenTab",
                  "type":"string",
                  "value":"true"
                 }, 
                 {
-                 "name":"openWebsite",
+                 "name":"xopenWebsite",
                  "type":"string",
                  "value":"https:\/\/framatalk.org\/oalley-room-3"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"xopenWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
                 }],
