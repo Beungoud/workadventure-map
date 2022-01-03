@@ -86,6 +86,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"MeetingRoom1"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"framatalk.org"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -104,6 +109,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"MeetingRoom2"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"framatalk.org"
                 }],
          "type":"tilelayer",
          "visible":true,
