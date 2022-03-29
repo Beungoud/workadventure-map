@@ -57,6 +57,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"PokerRoom"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/planningpokeronline.com\/08HkM30AG4exmvNSVYZ7"
